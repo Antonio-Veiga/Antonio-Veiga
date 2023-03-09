@@ -1,4 +1,4 @@
-## WELCOME MY PROFILE 
+## WELCOME TO MY PROFILE 
 
 Hey there! I'm a **software developer** based in Portugal with a passion for all things software-related. My skills include **front-end and back-end development, database management, CI/CD pipelines and tools, and 3D modeling in Blender or AutoCAD**. I also love **programming microcontrollers and working with IoT**.
 
