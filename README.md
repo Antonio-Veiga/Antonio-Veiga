@@ -1,13 +1,13 @@
 ## WELCOME MY PROFILE 
 
-Hey there! I'm a **software developer** based in Portugal with a passion for all things software-related. My skills include **front-end and back-end development, database management, CI/CD pipelines and tools, and 3D modeling in Blender or AutoCAD**. I'm also love **programming microcontrollers and working with IoT**.
+Hey there! I'm a **software developer** based in Portugal with a passion for all things software-related. My skills include **front-end and back-end development, database management, CI/CD pipelines and tools, and 3D modeling in Blender or AutoCAD**. I also love **programming microcontrollers and working with IoT**.
 
 <dl>
   <dd align="center">
-    <img style="width: 280px; height: 280px;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47grs7w9bchd7rqocp0mesdwnnztdw0ccrvymrmp6w&rid=giphy.gif&ct=g" alt="Beware: Professional Software Maison at Work">
+    <img style="width: 200px; height: 200px;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47grs7w9bchd7rqocp0mesdwnnztdw0ccrvymrmp6w&rid=giphy.gif&ct=g" alt="Beware: Professional Software Maison at Work">
     &nbsp;
     &nbsp;
-    <img style="height: 280px;" src="https://github-readme-stats.vercel.app/api?username=antonio-veiga&show_icons=true">
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=antonio-veiga&show_icons=true">
   </dd>
 </dl>
 
