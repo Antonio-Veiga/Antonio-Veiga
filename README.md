@@ -142,6 +142,14 @@ ___
    
 ___
 
+## CURRENTLY LEARNING/BUILDING
+
+Building a @nrwl/nx monorepo for web applications/SaaS (with PWA support) using <img style="width:20px; height: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> as my frontend framework and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="width:20px; height: 20px" /> as my backend, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width:20px; height: 20px" /> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" style="width:20px; height: 20px"/> as my UI frameworks/libraries.
+
+Also, messing aroung with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="width:20px; height: 20px"/>, specifically the @tauri-apps/tauri framework along with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:20px; height: 20px"/>.
+
+---
+
 ### Give me a contact!
 
 <table>
